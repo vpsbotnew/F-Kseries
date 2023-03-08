@@ -78,7 +78,7 @@ class Config:
     
     BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", '')
     
-    IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", """📁 𝖸𝗈𝗎𝗋 Movie 𝖠𝗋𝖾 𝖱𝖾𝖺𝖽𝗒\n\n🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> - {year} \n\n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+    IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", """📁 မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ။\n🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year} \n⭐️ အဆင့်: {rating}/ 10  \n🎭 အမျိုးအစား: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung) \n<a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီး နှင့် 🔞18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
