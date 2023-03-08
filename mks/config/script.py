@@ -202,6 +202,7 @@ Message <b>: {}</b>"""
 🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year} 
 ⭐️ အဆင့်: {rating}/ 10  
 🎭 အမျိုးအစား: {genres} 
+
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီး နှင့် 🔞18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
