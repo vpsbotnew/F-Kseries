@@ -199,13 +199,13 @@ Message <b>: {}</b>"""
     IMDB_TEMPLATE_TXT = """
     📀မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ📀
     
-    🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year}
-    ⭐️ အဆင့်: {rating}/ 10  
-    🎭 အမျိုးအစား: {genres} 
+🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year}
+⭐️ အဆင့်: {rating}/ 10  
+🎭 အမျိုးအစား: {genres} 
     
-    <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 🔞18+/21+ (လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ။</a>
+<a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 🔞18+/21+ (လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ။</a>
     
-    🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
