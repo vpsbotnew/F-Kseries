@@ -80,13 +80,13 @@ class Config:
     
     IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", """📀မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ📀
     
-    🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year}
-    ⭐️ အဆင့်: {rating}/ 10  
-    🎭 အမျိုးအစား: {genres}
+   🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year}
+   ⭐️ အဆင့်: {rating}/ 10  
+   🎭 အမျိုးအစား: {genres}
     
-    <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီး နှင့် 🔞18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>
+   <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီး နှင့် 🔞18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>
     
-    🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+   🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
