@@ -197,12 +197,12 @@ Message <b>: {}</b>"""
 🖇 File Size: {file_size} """
 
     IMDB_TEMPLATE_TXT = """
-📁 𝖸𝗈𝗎𝗋 Movie 𝖠𝗋𝖾 𝖱𝖾𝖺𝖽𝗒
+📀မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ📀
 
-🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> - {year} 
-
-⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
-🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
+🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year} 
+⭐️ အဆင့်: {rating}/ 10  
+🎭 အမျိုးအစား: {genres} 
+<a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီး နှင့် 🔞18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
