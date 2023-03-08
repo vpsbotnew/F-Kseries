@@ -196,8 +196,7 @@ Message <b>: {}</b>"""
 
 🖇 File Size: {file_size} """
 
-    IMDB_TEMPLATE_TXT = """
-📀မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ📀
+    IMDB_TEMPLATE_TXT = """📀မိတ်ဆွေရှာတဲ့စီးရီးတွေ့ပါပြီ📀
 
 🎥 စီးရီးအမည်: <a href={url}>{title}</a> - {year} 
 ⭐️ အဆင့်: {rating}/ 10  
