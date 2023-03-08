@@ -51,8 +51,8 @@ class Config:
 
 
     DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ynkseriesfilter:ynkseriesfilter@ynkseriesfilter.tnn8nnc.mongodb.net/?retryWrites=true&w=majority")
-    DATABASE_NAME = environ.get('DATABASE_NAME', "MKS")
-    DATABASE_NAME2 = environ.get('DATABASE_NAME2', "MKS2")
+    DATABASE_NAME = environ.get('DATABASE_NAME', "YNKS1")
+    DATABASE_NAME2 = environ.get('DATABASE_NAME2', "YNKS2")
     COLLECTION_NAME = environ.get('COLLECTION_NAME', 'CHANNEL')
     COLLECTION_NAME2 = environ.get('COLLECTION_NAME2', 'DM FILE')
 
